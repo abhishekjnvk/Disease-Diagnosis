@@ -1,7 +1,7 @@
 
 
 ### `Intoduction`
-This web app does disease diagnosis of and suggest some general precaution based on symptoms you have.
+This web app does disease diagnosis and suggest some general precaution based on symptoms you have.
 
 ### `npm install`
 install Required Dependencies using npm install
